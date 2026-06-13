@@ -2,17 +2,10 @@
   
 # 🚀 Laravel Sensero
 ### Professional Server Monitoring Dashboard for Laravel Applications
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/saeedvir/laravel-sensero.svg?style=for-the-badge&logo=packagist&logoColor=white&color=blue)](https://packagist.org/packages/saeedvir/laravel-sensero)
-[![Total Downloads](https://img.shields.io/packagist/dt/saeedvir/laravel-sensero.svg?style=for-the-badge&color=orange)](https://packagist.org/packages/saeedvir/laravel-sensero)
-[![License](https://img.shields.io/packagist/l/saeedvir/laravel-sensero.svg?style=for-the-badge&color=yellow)](https://packagist.org/packages/saeedvir/laravel-sensero)
-[![PHP Version Support](https://img.shields.io/packagist/php-v/saeedvir/laravel-sensero.svg?style=for-the-badge&color=green)](https://packagist.org/packages/saeedvir/laravel-sensero)
-[![Laravel Version Support](https://img.shields.io/badge/Laravel-11.x%20|%2012.x-orange?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f0e4d5f-7b8a-4c9d-baef-123456789abc" alt="Laravel Sensero Dashboard Preview" width="100%">
+  <img src="https://azaran-code.ir/storage/134/sensero.png" height="480" alt="Laravel Sensero Dashboard Preview" width="100%">
 </p>
 
 <div align="center">
@@ -480,27 +473,6 @@ Laravel Sensero follows a modular architecture with dedicated services for each 
 - Input validation and sanitization
 - CSRF protection
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/saeedvir/laravel-sensero.git
-
-# Install dependencies
-composer install
-
-# Run tests
-composer test
-```
 
 ### Code Standards
 - Follow PSR-12 coding standards
@@ -541,7 +513,7 @@ composer test
 
 ## 📄 License
 
-This package is open-source software licensed under the [MIT license](LICENSE).
+purchase license from https://azaran-code.ir
 
 ---
 
@@ -551,23 +523,6 @@ If you encounter any problems or have suggestions:
 - 🐛 Report bugs on [GitHub Issues](https://github.com/saeedvir/laravel-sensero/issues)
 - 💬 Ask questions in the discussions
 - 📧 Contact the author: [saeed.es91@gmail.com](mailto:saeed.es91@gmail.com)
-
-## 🚀 Roadmap
-
-### Upcoming Features
-- [ ] **Enhanced Query Analysis**: More sophisticated query optimization suggestions
-- [ ] **Advanced Alerting System**: Custom alerts based on performance thresholds
-- [ ] **Historical Data Visualization**: Charts showing trends over time
-- [ ] **Multi-Server Monitoring**: Monitor multiple servers from a single dashboard
-- [ ] **API Integration**: RESTful API for external integrations
-- [ ] **Mobile Responsive UI**: Enhanced mobile experience
-- [ ] **Custom Dashboard Widgets**: User-defined monitoring panels
-
-### Planned Improvements
-- [ ] **Performance Optimization**: Reduce overhead of monitoring features
-- [ ] **Enhanced Security**: Additional authentication methods and audit logs
-- [ ] **Better Error Handling**: Improved error messages and recovery
-- [ ] **Documentation**: Comprehensive guides and tutorials
 
 ---
 
